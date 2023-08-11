@@ -1,9 +1,9 @@
 {
 	"required": true,
-	"package": "com.example.mixin.client",
+	"package": "mod.zeta.zetamod2.mixin.client",
 	"compatibilityLevel": "JAVA_17",
 	"client": [
-		"ExampleClientMixin"
+		"ZetaMod2Mixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
